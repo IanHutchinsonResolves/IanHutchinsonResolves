@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Ian Hutchinson 👋
 
 I'm an accomplished **SaaS Technical Support Specialist** with over 10 years of remote experience in the EdTech sector. I thrive on resolving complex technical challenges and improving support operations, bridging the gap between customers, support teams, and engineering. My background is rooted in fostering a customer-centric culture and driving efficiency, demonstrated by a **50% reduction in average response times** in a previous role.
