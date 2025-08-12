@@ -1,6 +1,10 @@
 # Hi there, I'm Ian Hutchinson 👋
 
-I'm an accomplished **SaaS Technical Support Specialist** with over 10 years of remote experience in the EdTech sector. I thrive on resolving complex technical challenges and improving support operations, bridging the gap between customers, support teams, and engineering. My background is rooted in fostering a customer-centric culture and driving efficiency, demonstrated by a **50% reduction in average response times** in a previous role.
+I am an accomplished SaaS Technical Support Specialist with over 10 years of remote experience in the EdTech sector, delivering exceptional B2B and B2C support for platforms like LinkedIn Learning. I excel at resolving complex technical issues through strong troubleshooting and cross-functional collaboration with Engineering and Product teams.
+
+As a proven leader in process improvement and training, I have successfully reduced average response times by 50% while mentoring junior support staff to foster a customer-centric culture and drive long-term loyalty.
+
+
 
 ---
 
@@ -21,11 +25,12 @@ I'm an accomplished **SaaS Technical Support Specialist** with over 10 years of 
 
 ### 🛠️ Core Competencies & Technical Skills
 
+
 | Platforms & CRM | Collaboration & Ticketing | Diagnostics & Scripting | Key Expertise |
 | :--- | :--- | :--- | :--- |
-| `Salesforce` | `Jira` | `SQL` | SSO & LMS Integration |
-| `Microsoft Dynamics` | `GitHub` | `Python` | Technical Escalation |
-| `Oracle Service Cloud` | `Microsoft Office` | `cURL / Unix` | Incident & Problem Tracking |
+| `Salesforce` | `Jira` | `SQL` | Client-Facing Technical Troubleshooting & Communication |
+| `Microsoft Dynamics` | `GitHub` | `Splunk` | Technical Escalation |
+| `Oracle Service Cloud` | `Slack` | `cURL & API Testing` | `Incident & Problem Tracking` | 
 
 <!-- You can generate your own skill icons here: https://skillicons.dev -->
 ![My Skills](https://skillicons.dev/icons?i=salesforce,jira,github,sql,python,bash,md)
