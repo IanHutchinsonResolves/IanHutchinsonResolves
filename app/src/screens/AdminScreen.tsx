@@ -108,6 +108,20 @@ export function AdminScreen() {
         </View>
       ) : null}
 
+      {analytics?.success ? (
+        <>
+          <Text style={styles.sectionTitle}>Per-Business Analytics</Text>
+          {(analytics.businessAnalytics || []).map((biz: any) => (
+            <View key={biz.businessId} style={styles.analyticsRow}>
+              <Text style={styles.analyticsName}>{biz.name}</Text>
+              <Text>Total check-ins: {biz.totalCheckIns}</Text>
+              <Text>Unique users: {biz.uniqueUsers}</Text>
+              <Text>Repeat check-ins: {biz.repeatCheckIns}</Text>
+            </View>
+          ))}
+        </>
+      ) : null}
+
       <Text style={styles.sectionTitle}>QR Links</Text>
       <FlatList
         data={businesses}
@@ -155,6 +169,17 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: "#D5D8DC",
     marginVertical: 12
+  },
+  analyticsRow: {
+    padding: 12,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: "#E5E7E9",
+    marginBottom: 10
+  },
+  analyticsName: {
+    fontWeight: "700",
+    marginBottom: 4
   },
   sectionTitle: {
     fontSize: 16,
