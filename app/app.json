@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Shoppe, Play, Local",
+    "slug": "shoppe-play-local",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "Scan in-store QR codes to earn bingo chips."
+      }
+    },
+    "android": {
+      "permissions": ["CAMERA"]
+    }
+  }
+}
